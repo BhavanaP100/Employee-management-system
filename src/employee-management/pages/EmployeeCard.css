@@ -1,0 +1,12 @@
+.employee-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px;
+    max-width: 350px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.employee-card h3 {
+    margin-top: 0;
+}
